@@ -21,7 +21,7 @@ Chào mừng bạn đến với dự án **DIY Antari**! Dưới đây là các 
 Tiến hành hàn các jack **hotswap** để dễ dàng thay đổi switch.
 ### 🔹 Bước 4: Hàn các điểm theo hình dưới
 Phần này bao gồm:
-- **Tín hiệu LV**
+- **Tín hiệu LV 3 điểm "chỉ hàn 2 điểm"**
 - **Điện trở**
 - **Điểm dưới cùng núm xoay** *(2 điểm khá nhỏ)*
 
